@@ -24,8 +24,9 @@ N/A
 
 N/A
 
-## Preview of the deployed application
+## Preview of the application
 
+<img width="1727" alt="A preview of an e-commerce back-end application" src="https://github.com/JideTS/e-commerce-backend/assets/20988563/c36d4ecf-6dfd-4157-92f8-c89d12b8ee8b">
 
 
 ## Demo video of the application
